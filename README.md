@@ -1,5 +1,6 @@
 # flutter_connection_checker
-
+## Demo   
+![alt text](https://media1.tenor.com/images/6efe23d28085adea0635367ca55d0ab7/tenor.gif?itemid=22390918)
 A new Flutter application.
 
 ## Getting Started
